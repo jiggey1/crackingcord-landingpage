@@ -5,7 +5,8 @@ html, body { height: 100%; }
 body {
   overflow: hidden;
   color: rgb(206, 206, 206);
- font-family: 'Varela Round', sans-serif;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.5vh;
   background-color: rgb(12, 12, 12);
 }
 
@@ -46,7 +47,7 @@ h4 {
 
 h3 {
   text-align: center;
-  font-size: 35px;
+  font-size: 3vh;
   transition: all .2s ease-in-out; 
 }
 
@@ -55,12 +56,12 @@ h3 {
 }
 
 .footer {
-  font-size: 12px;
+  font-size: 1vh;
   color: rgb(92, 92, 92);
 }
 
 a {
-  margin-top: 10px;
+  margin-top: 1vh;
   color:#d43881;
 }
 
