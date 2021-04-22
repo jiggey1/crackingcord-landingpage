@@ -12,8 +12,8 @@ body {
 
 h1 {
   text-align: center;
-  margin-top: 25vh;
-  font-size: 5vh;
+  margin-top: 15vh;
+  font-size: 6.5vh;
   font-family: 'Comfortaa', sans-serif;
   animation: colorRotate 5s linear 0s infinite;
 }
@@ -47,7 +47,7 @@ h4 {
 
 h3 {
   text-align: center;
-  font-size: 3vh;
+  font-size: 4vh;
   transition: all .2s ease-in-out; 
 }
 
@@ -56,12 +56,12 @@ h3 {
 }
 
 .footer {
-  font-size: 1vh;
+  font-size: 2.3vh;
   color: rgb(92, 92, 92);
 }
 
 a {
-  margin-top: 1vh;
+  margin-top: 2.5vh;
   color:#d43881;
 }
 
